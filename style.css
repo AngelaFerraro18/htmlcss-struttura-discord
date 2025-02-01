@@ -16,7 +16,7 @@ body{
 
 header{
     display: flex;
-    justify-content: space-between;
+    width: 1204px;
     padding: 16px;
     }
 
@@ -106,9 +106,35 @@ nav{
     background-color: #228b22;
     width: 1204px;
     height: 900px;
+    border: 2px dotted #000;
 }
 
 /* sezione 5 */
 
+#blocco5{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    background-color: #23272a;
+    padding: 50px 0;
+}
+
+.rosa2{
+    background-color: #f08080;
+    width: 362px;
+    border: 2px dotted #000;
+}
+
+.azzurro2{
+    background-color: #20b2aa;
+    width: 841px;
+    border: 2px dotted #000;
+    display: flex;
+}
+
+.blocchi{
+    border: 2px dotted #ffffff;
+    width: 210px;
+}
 
 

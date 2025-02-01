@@ -14,7 +14,7 @@ header{
     display: flex;
     background-color: #add8e6;
     justify-content: space-between;
-    padding-top: 16px;
+    padding: 16px;
     }
 
 header >div{
@@ -35,6 +35,20 @@ nav{
     text-align: center;
 }
 
+/* main */
 
+#sec-1{
+    display: flex;
+    justify-content: center;
+    background-color: #00008b;
+    padding: 51px;
+}
 
+#sec-1>div{
+    height: 401px;
+    width: 904px;
+    background-color: #ee82ee;
+    border: 2px dotted #000;
+    
+}
 
